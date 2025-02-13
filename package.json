@@ -2,7 +2,10 @@
   "name": "website",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://codify-berkeley-education.github.io/",
   "scripts": {
+    "predeploy": "bun run build",
+    "deploy": "gh-pages -d build",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "dev": "docusaurus start",
@@ -22,6 +25,7 @@
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "dotenv": "^16.4.5",
+    "gh-pages": "^6.3.0",
     "posthog-docusaurus": "^2.0.1",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
