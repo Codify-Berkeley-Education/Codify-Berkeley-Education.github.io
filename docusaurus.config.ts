@@ -12,15 +12,15 @@ const config: Config = {
   favicon: "img/brackets.svg",
 
   // Set the production url of your site here
-  url: "https://61d.org",
+  url: "https://codify-berkeley-education.github.io/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  // organizationName: "facebook", // Usually your GitHub org/user name.
-  // projectName: "docusaurus", // Usually your repo name.
+  organizationName: "Codify-Berkeley", // Usually your GitHub org/user name.
+  projectName: "Codify-Berkeley-Education.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
