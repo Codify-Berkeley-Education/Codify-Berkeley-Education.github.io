@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Assignment Links
 
-- [Starter Code](https://github.com/CS61D/Assignment-Starter-Javascript)
+- [Starter Code](https://github.com/CS61D/Assignment-Starter-Javascript/tree/9ef5b4e230ca32295c2ab7a8000ac0be4ea022e7)
 - [Lecture 1: JavaScript](https://www.youtube.com/watch?v=TrAyq1hSUpI)
 
 ## Assignment Overview
