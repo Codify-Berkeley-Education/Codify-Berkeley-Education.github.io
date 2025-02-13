@@ -1,0 +1,8 @@
+/* custom.css */
+:root {
+    --ifm-color-primary: #25c2a0;
+    --ifm-color-primary-dark: #1b998b;
+    --ifm-color-primary-darker: #0d776b;
+    --ifm-color-primary-light: #3ddbb8;
+    --ifm-color-primary-lighter: #6ceccf;
+}
