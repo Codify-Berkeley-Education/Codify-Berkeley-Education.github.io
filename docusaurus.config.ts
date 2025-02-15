@@ -163,7 +163,7 @@ const config: Config = {
           position: "right",
         },
         {
-          href: "https://github.com/CS61D",
+          href: "https://github.com/Codify-Berkeley-Education",
           label: "GitHub",
           position: "right",
         },
