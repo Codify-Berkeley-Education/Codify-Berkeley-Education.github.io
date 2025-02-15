@@ -8,7 +8,7 @@ This page covers specific course policies and procedures. If you are auditing th
 
 ## Course Details
 
-- **Course Name**: 61d: Applied Software Development
+- **Course Name**: 61D: Applied Software Development
 - **Course Instructor**: TBA
 - **Lecture Times**: TBA (Not mandatory, as all lectures will be recorded)
 - **Prerequisites**: Concurrent enrollment in CS61A, CS88, or equivalent entry level computer science course is required. Prior completion of said course is recommended.
@@ -17,7 +17,7 @@ There are **no** required course materials besides a laptop. Students my optiona
 
 ## Course Overview and Learning Goals
 
-61d covers all concepts necessary for a student to develop and deploy a full stack web application. The final project (project 2), will require students to build an application from scratch in a team of two. All lectures, readings, assignments, and projects will are designed to teach the skills necessary to complete this final project. These skills include but are not limited to:
+61D covers all concepts necessary for a student to develop and deploy a full stack web application. The final project (project 2), will require students to build an application from scratch in a team of two. All lectures, readings, assignments, and projects will are designed to teach the skills necessary to complete this final project. These skills include but are not limited to:
 
 0. Use of Git, GitHub, and the command line
 1. Fundamentals of the JavaScript and TypeScript programming languages
