@@ -6,8 +6,9 @@ sidebar_position: 2
 
 ## Assignment Links
 
-- [Starter Code](https://github.com/CS61D/Assignment-Starter-Javascript/tree/9ef5b4e230ca32295c2ab7a8000ac0be4ea022e7)
+- [Starter Code](https://github.com/Codify-Berkeley-Education/Assignment-Starter-Javascript)
 - [Lecture 1: JavaScript](https://www.youtube.com/watch?v=TrAyq1hSUpI)
+- [Github Classroom Assignment](https://classroom.github.com/a/FbVGiCTf)
 
 ## Assignment Overview
 
