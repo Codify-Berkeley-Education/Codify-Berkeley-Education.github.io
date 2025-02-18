@@ -22,3 +22,4 @@ yarn-error.log*
 .vscode/settings.json
 
 bun.lockb
+bun.lock
