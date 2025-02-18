@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Syllabus
+# Syllabus [Under Construction]
 
 This page covers specific course policies and procedures. If you are auditing the course or want to get a better idea of the high level course objectives, see the [course overview](overview)
 
