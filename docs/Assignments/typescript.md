@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Assignment Links
 
-- [Starter Code]([https://github.com/CS61D/Assignment-Starter-Typescript](https://github.com/Codify-Berkeley-Education/Assignment-Starter-Typescript))
+- [Starter Code](https://github.com/Codify-Berkeley-Education/Assignment-Starter-Typescript)
 - [Lecture 2: TypeScript](https://www.youtube.com/watch?v=C3CzIBC5YwI)
 - [Github Classroom Assignment](https://classroom.github.com/a/cldycgb3)
 
