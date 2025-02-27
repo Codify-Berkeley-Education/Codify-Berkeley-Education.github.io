@@ -7,7 +7,7 @@ sidebar_position: 3
 ## Assignment Links
 
 - [Starter Code](https://github.com/Codify-Berkeley-Education/Assignment-Starter-Typescript)
-- [Lecture 2: TypeScript](https://www.youtube.com/watch?v=C3CzIBC5YwI)
+- [Lecture 2: TypeScript](https://www.youtube.com/watch?v=gpbAb0Bgwx8)
 - [Github Classroom Assignment](https://classroom.github.com/a/cldycgb3)
 
 ## Assignment Overview
