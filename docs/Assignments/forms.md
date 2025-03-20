@@ -90,7 +90,35 @@ Tailwind CSS is a utility-first CSS framework that lets you style your UI by com
    ```
    and view your project at [http://localhost:5173/](http://localhost:5173/).
 
-This setup allows you to leverage both shadcn’s pre-built components and Tailwind’s flexible styling utilities to build modern, responsive forms.
+---
+
+## Tailwind CSS Practical Exercises
+
+Now that Tailwind CSS is integrated into the project, try these exercises to get hands-on practice:
+
+1. **Form Container Styling:**  
+   - Add utility classes to the form container (e.g. in `Form.tsx`) to center it on the page using `mx-auto` and add padding with `p-6` or `p-4`.
+   - Experiment with background colors like `bg-gray-100` or your custom `bg-background`.
+
+2. **Input Field Styling:**  
+   - Style the input fields by adding classes such as `border`, `rounded`, and `p-2` for spacing.
+   - Add focus states with classes like `focus:outline-none` and `focus:ring-2` to improve usability.
+
+3. **Button Styling:**  
+   - Enhance the submit button by applying classes such as:
+     ```html
+     className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded"
+     ```
+   - This will give the button a modern look and a responsive hover effect.
+
+4. **Responsive Design:**  
+   - Use responsive utility classes to adjust layout on different screen sizes. For instance, change padding or margins on mobile vs. desktop with classes like `p-4 md:p-8`.
+
+5. **Custom Color Usage:**  
+   - Update your `tailwind.config.ts` with custom colors if you haven't already.
+   - Apply these custom colors in your components by using classes like `bg-background` and `text-foreground`.
+
+Take a few minutes to experiment with these exercises. They’re designed to give you a practical feel for how Tailwind CSS can rapidly improve your UI design.
 
 ---
 
