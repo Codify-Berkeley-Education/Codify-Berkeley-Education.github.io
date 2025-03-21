@@ -10,6 +10,7 @@ sidebar_position: 4
 - [Final Product](https://todo.61d.org/) (what you will build)
 - [Lecture 3: React Basics](https://youtube.com/playlist?list=PLKG9s9gYKALCJxk0pTV-Ap69Gl1pPGdOA&si=uJA0GxOaR9n_2Igc)
 - [Lecture 4: React State and Context](https://youtube.com/playlist?list=PLKG9s9gYKALCnkPy3cjAqeuKqZhFlLQsh&si=GUSwgWif6fMel6A2)
+- [Github Classroom Assignment](https://classroom.github.com/a/-uCtH8RV)
 
 Make sure to watch both lectures before attempting the assignment!
 
