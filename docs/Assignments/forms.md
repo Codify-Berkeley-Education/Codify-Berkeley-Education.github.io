@@ -11,6 +11,7 @@ import TabItem from "@theme/TabItem";
 
 - [Starter Code](https://github.com/CS61D/Assignment-Starter-Forms)
 - [Finished Solution](https://forms.61d.org/) (what you will build)
+- [Lecture 5: Forms & Validation](https://www.youtube.com/playlist?list=PLKG9s9gYKALAfl18EoFXxRRu7ORmGWE3J)
 
 ## Assignment Overview
 
