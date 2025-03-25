@@ -1,11 +1,19 @@
+---
+sidebar_position: 5
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # 5. Forms
 
 ## Assignment Links
 
-- [Starter Code](https://github.com/CS61D/Assignment-Starter-Forms)
+- [Starter Code](https://github.com/Codify-Berkeley-Education/Assignment-Starter-Forms)
 - [Finished Solution](https://forms.61d.org/) (what you will build)
 - [Lecture 5: Forms & Validation](https://www.youtube.com/playlist?list=PLKG9s9gYKALAfl18EoFXxRRu7ORmGWE3J)
 - [Lecture 6: Basic CSS & Tailwind](https://youtube.com/playlist?list=PLKG9s9gYKALDF-_Snq9CjiriDqWFkj3yU&si=fiMEUNDQza0Zulpn)
+- [GitHub Classroom Assignment](https://classroom.github.com/a/RCocqtIL)
 
 ## Assignment Overview
 
