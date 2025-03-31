@@ -4,6 +4,13 @@ sidebar_position: 6
 
 # 6. Databases
 
+## Assignment Links
+
+- [Starter Code (Under Construction)]
+- [Lecture 7: Relational Data Modeling](https://www.youtube.com/playlist?list=PLKG9s9gYKALDNKDWjhuHL42ZewTpGfY2o)
+- [Lecture 8: CRUD Operations](https://www.youtube.com/playlist?list=PLKG9s9gYKALBxUMoobJ7wMrZR5QJWum0b)
+- [GitHub Classroom Assignment (Under Construction)]
+
 ## Project Description - The Online Ordering System
 
 Imagine you are developing the backend for a simpler version of an online ordering system like Snackpass for one specific restaurant. The system needs to handle different entities such as customers, orders, menu items, and some order details. This system will allow customers to register customer information, browse the menu, and place orders. It will also allow the restaurant owner to track each day's total sales. How should we go about implementing the backend database system from scratch? We broke it down to 3 parts in this assignment. The first two parts can be completed after the first lecture. The last part can be completed after the second lecture.
