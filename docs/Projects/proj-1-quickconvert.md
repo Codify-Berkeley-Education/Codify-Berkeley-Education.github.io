@@ -6,8 +6,9 @@ sidebar_position: 1
 
 ## Project Links
 
-- [Starter Code](https://github.com/CS61D/Project-Starter-QuickConvert)
+- [Starter Code](https://github.com/Codify-Berkeley-Education/Project-1-Starter-QuickConvert)
 - [Finished Solution](https://quickconvert.61d.org/)
+- [GitHub Classroom Assignment](https://classroom.github.com/a/p0raPC2C)
 
 ## Project Overview
 
