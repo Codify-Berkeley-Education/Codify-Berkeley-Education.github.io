@@ -1,7 +1,7 @@
 ---
-sidebar_position: 8
+sidebar_position: 7
 ---
 
-# 8. Next.js
+# 7. Next.js
 
 (Coming soon)
