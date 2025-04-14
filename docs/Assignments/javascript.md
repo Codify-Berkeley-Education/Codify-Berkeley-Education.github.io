@@ -12,7 +12,7 @@ sidebar_position: 1
 
 ## Assignment Overview
 
-The goal of this assignment is to get you familiar with JavaScript syntax, focussing on arrays, objects, and functions. None of the problems are designed to be overly difficult to complete conceptually. We also have several problems that can be completed using the map an filter methods, which will be extremely useful throughout the course. If you are struggling with map and filter, try solving the problem first using a for loop, and then convert your solution to using map and/or filter after.
+The goal of this assignment is to get you familiar with JavaScript syntax, focussing on arrays, objects, and functions. We also have several problems that can be completed using the map an filter methods, which will be extremely useful throughout the course. If you are struggling with map and filter, try solving the problem first using a for loop, and then convert your solution to using map and/or filter after.
 
 ### Setup
 
@@ -52,7 +52,7 @@ describe("printIndex Function", () => {
 });
 ```
 
-Much like CS 61A or 61B, we run a series of tests on your solution code to verify it works properly. The tests that you have a local copy of are the exact same tests that we will use in the auto grader. If all of the tests pass locally, they should all pass on the auto grader and you will get full credit on the assignment. We also use the same testing framework for more or less the entire first half of the course, so take some time to play around with it and learn how it works now.
+Like CS 61A or 61B, we run a series of tests on your solution code to verify it works properly. The tests that you have a local copy of are the exact same tests that we will use in the auto grader. If all of the tests pass locally, they should all pass on the auto grader and you will get full credit on the assignment. We also use the same testing framework for more or less the entire first half of the course, so take some time to play around with it and learn how it works now.
 
 Each problem has its own test suite, which is in its own file.
 
@@ -136,32 +136,34 @@ Given an array of strings, return a new array that has the index of the string c
 ```javascript
 const arr = [
   "Hello!",
-  "My name is Elder Price",
+  "My name is John DeNero",
   "And I would like to share with you",
-  "The most amazing book.",
+  "Another project due next week.",
 ];
 indexAndConcat(arr);
 /**
  * Returns
  * ["0Hello!",
- * "1My name is Elder Price",
+ * "1My name is John DeNero",
  * "2And I would like to share with you",
- * "3The most amazing book."]
+ * "3Another project due next week."]
  */
 ```
 
-## Problem 5: Where's Waldo?
+## Problem 5: Where's Aidan Sunbury?
 
-Given an array of strings, return all an array of all of the strings containing the all lower case string "waldo". Be sure to ignore any instances of waldo besides the all lower case version. Additionally, we want to make sure that we can find waldo, so make all of the returned strings FULL UPPER CASE.
+Given an array of strings, return all an array of all of the strings containing the all lower case string "aidan". Be sure to ignore any instances of aidan besides the all lower case version. Additionally, we want to make sure that we can find aidan, so make all of the returned strings FULL UPPER CASE.
 
 ```javascript
 const arr = [
-  "Who is waldo?",
+  "Who is aidan?",
   "where is he?",
-  "what is waldo doing?",
-  "WalDo is already here",
+  "what is aidan doing?",
+  "Aidan is not here",
 ];
-uppercaseStringsContainingWaldo(arr); // Returns ["WHO IS WALDO?", "WHAT IS WALDO DOING?"]
+
+uppercaseStringsContainingAidan(arr); // Expected Output: ["WHO IS AIDAN?", "WHAT IS AIDAN DOING?"]
+
 ```
 
 ## Problem 6: Are People Objects?
@@ -169,17 +171,17 @@ uppercaseStringsContainingWaldo(arr); // Returns ["WHO IS WALDO?", "WHAT IS WALD
 Given an array of names, and an array of ages, return an array of objects with the properties name and age. You may assume that the names and ages arrays are of the same length
 
 ```javascript
-const names = ["Taylor", "Jake"];
+const names = ["Arthur", "Michael"];
 const ages = [20, 29];
 namesAndAges(names, ages);
 // Returns the value assigned to expectedReturn
 const expectedReturn = [
   {
-    name: "Taylor",
+    name: "Arthur",
     age: 20,
   },
   {
-    name: "Jake",
+    name: "Michael",
     age: 29,
   },
 ];
@@ -193,21 +195,21 @@ You are given an object obj in string form. Parse the object and determine if it
 const expected = {};
 
 // Note the inputs are strings
-const agelessWonder = '{"beauty":10,"followers":1000000,"name":"Ariana"}';
-const oldMan = '{"beauty":0,"backPain":true,"age":50}';
+const agelessWonder = '{"beauty":10,"followers":1000000,"name":"Fernando"}';
+const trump = '{"beauty":0,"lawsuits":true,"age":78}';
 
 doubleAge(agelessWonder); // Returns the value assigned to expected
 expected = {
   beauty: 10,
   followers: 1_000_000,
-  name: "Ariana",
+  name: "Fernando",
   age: 0,
 };
 
-doubleAge(oldMan); // Returns the value assigned to expected
+doubleAge(trump); // Returns the value assigned to expected
 expected = {
   beauty: 0,
-  backPain: true,
-  age: 100,
+  lawsuits: true,
+  age: 78,
 };
 ```
