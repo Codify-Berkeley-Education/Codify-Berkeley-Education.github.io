@@ -8,7 +8,7 @@ sidebar_position: 1
 
 - [Starter Code](https://github.com/Codify-Berkeley-Education/Assignment-Starter-Javascript)
 - [Lecture 1: JavaScript](https://www.youtube.com/watch?v=TrAyq1hSUpI)
-- [Github Classroom Assignment](https://classroom.github.com/a/YMUoUkc2)
+- [Github Classroom Assignment](N/A)
 
 ## Assignment Overview
 

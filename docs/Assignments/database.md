@@ -9,7 +9,7 @@ sidebar_position: 5
 - [Starter Code (Under Construction)]
 - [Lecture 7: Relational Data Modeling](https://www.youtube.com/playlist?list=PLKG9s9gYKALDNKDWjhuHL42ZewTpGfY2o)
 - [Lecture 8: CRUD Operations](https://www.youtube.com/playlist?list=PLKG9s9gYKALBxUMoobJ7wMrZR5QJWum0b)
-- [GitHub Classroom Assignment (Under Construction)]
+- [GitHub Classroom Assignment (N/A)]
 
 ## Project Description - The Online Ordering System
 
