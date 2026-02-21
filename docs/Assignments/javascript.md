@@ -6,9 +6,9 @@ sidebar_position: 1
 
 ## Assignment Links
 
-- [Starter Code](https://github.com/Codify-Berkeley-Education/Assignment-Starter-Javascript)
-- [Lecture 1: JavaScript](https://www.youtube.com/watch?v=TrAyq1hSUpI)
-- [Github Classroom Assignment](N/A)
+- [Lecture 1 Playlist](https://www.youtube.com/playlist?list=PLKG9s9gYKALBhzRbV6ANuxF44H7-_0qx9)
+- [Github Classroom Assignment](https://classroom.github.com/a/kEfbRQ1A)
+
 
 ## Assignment Overview
 

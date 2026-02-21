@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 3. React
+# 3. React(Oudated)
 
 ## Assignment Links
 
@@ -10,7 +10,7 @@ sidebar_position: 3
 - [Final Product](https://todo.61d.org/) (what you will build)
 - [Lecture 3: React Basics](https://youtube.com/playlist?list=PLKG9s9gYKALCJxk0pTV-Ap69Gl1pPGdOA&si=uJA0GxOaR9n_2Igc)
 - [Lecture 4: React State and Context](https://youtube.com/playlist?list=PLKG9s9gYKALCnkPy3cjAqeuKqZhFlLQsh&si=GUSwgWif6fMel6A2)
-- [Github Classroom Assignment](N/A)
+<!-- - [Github Classroom Assignment](N/A) -->
 
 Make sure to watch both lectures before attempting the assignment!
 

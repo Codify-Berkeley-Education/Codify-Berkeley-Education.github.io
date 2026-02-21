@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 2. Typescript
+# 2. Typescript(Oudated)
 
 ## Assignment Links
 

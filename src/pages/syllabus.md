@@ -9,16 +9,18 @@ This page covers specific course policies and procedures. If you are auditing th
 ## Course Details
 
 - **Course Name**: 61D: Applied Software Development
-- **Office Hours**: [Fill In]
-- **Course Instructor**: [Fill In]
-- **Lab Time & Location**: [Fill In]
-- **Prerequisites**: Concurrent enrollment in CS61A, CS88, or equivalent entry level computer science course is required. Prior completion of said course is recommended.
+- **Office Hours**: TBD
+- **Course Instructors**: Vikram Nandi, Karthik Subramanian
+- **Lab Time & Location**: Dwinelle 187
+- **Prerequisites**: No prereqs needed :D
 
 There are **no** required course materials besides a laptop. All software taught and used in this course will be open source.
 
+Short administrative meetings (~15 minutes) may occur during GM sessions.
+
 ## Course Overview and Learning Goals
 
-61D covers the main concepts necessary for a student to be ready to work on real world applications & software.
+61D prepares students to design and build real-world software applications.
 A week will usually consist of lectures, a lab, and an assignment or project. 
 The course load is roughly equivalent to a 2-3 unit class and requires a time commitment of about 3-7 hours per week taking into account everything.
 All lectures, readings, assignments, and projects are designed to teach the skills that you will need to start your Software Engineering journey.
@@ -48,27 +50,22 @@ During the second part of the course, a much larger percentage of time will be s
 
 ### Lectures (1-2 hours per week)
 
-All course content is covered in a series of [FILL IN] lectures. 
+All course content is covered in a series of 10 lectures. 
 Each lecture will be between 30 min - 1 hour.
 Lectures will be recorded and posted on the course YouTube channel.
 
 [//]: # (Attendance credit can be earned for a lecture either by attending in person &#40;and submitting a secret word attendance form&#41;, or by watching the recording and completing a vitamin. )
 [//]: # (Vitamins are short, multiple choice, infinite attempt quizzes which test your understanding of the material covered in the lecture and reinforce core concepts.)
 
-The lectures will be a mix of covering conceptual concepts, and working through live examples. Many lectures will have a some starter code in a GitHub repository that can be used to follow along with the lecture.
+Lectures will combine conceptual foundations with live coding demonstrations and guided walkthroughs. Many lectures will include starter code in a GitHub repository that can be used to follow along with the lecture.
 
-### Labs (1hour & 30min per week)
+### Labs (1 hour 30 minutes per week)
 
-Labs will be held weekly at [FILL IN] on [FILL IN]. 
-During the beginning of lab, students will be asked to fill out an optional survey to give feedback on the course.
+Labs will be held weekly on Tuesdays from 6:30–8:00 PM in Dwinelle 187. During the beginning of lab, students will be asked to fill out an optional survey to give feedback on the course.
 The rest of lab time will be used to review the material covered in the corresponding lecture for that week by going through application of the content covered in the lecture. 
 Students are encouraged to follow along with the lecture code listed on the corresponding assignment for that week but may choose to either follow along with the provided lecture code or just observe.
 Students at this time are encouraged to ask questions about anything course-related that they are confused about.
 
-
-### [OPTIONAL] Readings and External Resources (1 hour per week)
-
-No readings will be required, but are they highly recommended. Readings will provide a quick reference for the material covered in lectures, give concrete code snippets that can be used in projects, and dive into extra out of scope concepts not covered in lectures. External blog posts, YouTube videos, and documentation will be linked in the readings to provide extra context and resources for students to explore. All readings will be available on the course website. Not all lectures will have corresponding readings.
 
 ### Assignments (1-3 hours per week)
 
@@ -82,8 +79,7 @@ Most assignments however will involve a guided multi-step process to build a sim
 Assignments will be heavily structured and have a clear specification that walks students through the process of building the application.
 The goal of the assignments is to give students practice implementing the ideas covered in lectures, not practice coming up with open-ended solutions.
 
-Students will be allowed to drop [FILL IN] assignments. 
-There will be however be some assignments that cannot be dropped and will be required to complete to pass the course which will be listed in the assignments' description.
+There are 6 total assignments. Students will be allowed to drop 1 assignment. Projects, which are not assignments, must be completed and cannot be dropped.
 
 Many assignments will contain optional sections in which students can complete more challenging problems or add additional functionalities to their application.
 
@@ -104,11 +100,10 @@ Both projects must be completed to pass the course and will be graded on a set o
 
 #### Project 1: Quick Convert
 
-Students will create an [image format converter](https://cloudconvert.com/) which allows the user to change the file format of images in the browser. 
+Students will create an image format converter which allows the user to change the file format of images in the browser. 
 If a student needs to convert a `.png` to a `.jpg`, they should be able to upload the `.png` to the application, and download the `.jpg` from the application. 
 The application will complete all of this work in the browser, meaning the project can be completed with only the concepts covered in the first four weeks of the course.
 
-#### Project 2: [FILL IN]
 
 [//]: # (Students will build an [shared expense tracking]&#40;https://www.splitwise.com/&#41; application.)
 
@@ -131,6 +126,12 @@ The application will complete all of this work in the browser, meaning the proje
 [//]: # (During the last week of the course, students must present their completed final project to course staff. )
 
 [//]: # (In this presentation, they must demonstrate the functionality of their application, and explain the technical decisions they made in building the application.)
+
+#### Project 2/Final Project
+
+For the final project, students will design and implement a complete full-stack web application using the technologies covered in the course.
+
+More info will be released as we get closer to project release.
 
 ## Grading
 
@@ -191,7 +192,13 @@ The application will complete all of this work in the browser, meaning the proje
 
 [//]: # (</table>)
 
-In order to pass the course, students must complete at least **6** Assignments (required assignments included) and **both** Projects.
+In order to pass the course, students must:
+
+- Complete at least 5 assignments (graded P/NP based on effort)
+
+- Complete all required projects
+
+- Have no more than 2 unexcused absences (4 total absences maximum)
 
 Assignments will be graded based on completion. This is either through passing all the auto-grader tests on the assignment or by implementing all the required functionality specified.
 
@@ -213,157 +220,128 @@ All Assignments will automatically be eligible for a 1-week extension, no questi
 After this, further extensions will be granted by course staff on a case by case basis. 
 Keep in mind that we will take into account your individual situations and may even adjust the course accordingly.
 
-Project 1 will have the same extension policy as assignments. There are no extensions for Project 2, as its due date buts up against the end of the course.
+Project 1 will have the same extension policy as assignments. There are no extensions for Project 2, as its due date butts up against the end of the course.
 
 Course staff reserves the right to make these policies more lenient for individual students or for the class as a whole in extenuating circumstances, but will not make these policies more strict.
 
 ## Calendar
 
-The course is broken up into 12 weeks.
+The course is broken up into 11 weeks.
 Each week will have 1-2 lectures which will be released on the Sunday of the corresponding week. 
 Assignments and Projects will be also assigned on Sunday. 
 Assignments will be due 1-2 weeks after they are assigned, depending on the length of the Assignment on the corresponding Sunday at 11:59PM. 
 Projects will be due 3 weeks after they are assigned, also on the corresponding Sunday at 11:59PM.
-Labs will be held weekly on [FILL IN] at [FILL IN].
+Labs will be held weekly on Tuesdays at 6:30-8:00pm.
 
 Many assignments after the release of project 2 will be extra credit, as students should prioritize making progress on their final project.
 
-<h3>Week 1:</h3>
-
-| Lectures                                                   | Assignments/Projects                                |
-|------------------------------------------------------------|-----------------------------------------------------|
-| 0) Developer Fundamentals: Git and Bash<br/> 1) JavaScript | **Assigned**: Assignment 0. Git, Markdown, and Bash |
-|                                                            |                                                     |
+<h3>Course Calendar</h3>
 
 <table>
   <tr>
     <th>Week</th>
-    <th>Lecture</th>
-    <th>Assignment(s)</th>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>0) Developer Fundamentals: Git and Bash</td>
-    <td>**Assigned**: Assignment 0. Git, Markdown, and Bash</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>1) JavaScript</td>
-    <td>**Assigned**: Assignment 1. JavaScript</td>
-  </tr>
-  
-   <tr>
-    <td>1</td>
-    <td>2) TypeScript</td>
-    <td>**Assigned**: Assignment 2. TypeScript <br/> **Due**: Assignment 0. Git, Markdown, and Bash</td>
+    <th>Lecture(s)</th>
+    <th>Assignment(s) / Project(s)</th>
   </tr>
 
   <tr>
-    <td></td>
-    <td>3) React Markup and Components</td>
-    <td>**Due**: Assignment 1. JavaScript</td>
+    <td>0</td>
+    <td>0) Developer Fundamentals: Git & Bash<br/>1) JavaScript</td>
+    <td>
+      <strong>Assigned:</strong> Assignment 0 – Git<br/>
+      <strong>Assigned:</strong> Assignment 1 – JavaScript
+    </td>
   </tr>
-   <tr>
-    <td>2</td>
-    <td>4) React State and Context</td>
-    <td>**Assigned**: Assignment 3. React</td>
-  </tr>
+
   <tr>
-    <td></td>
-    <td>5) Tailwind CSS</td>
-    <td>**Due**: Assignment 2. TypeScript</td>
+    <td>1</td>
+    <td>2) TypeScript</td>
+    <td>
+      <strong>Assigned:</strong> Assignment 2 – TypeScript
+    </td>
   </tr>
+
+  <tr>
+    <td>2</td>
+    <td>3) React Basics & Components</td>
+    <td>
+      <strong>Assigned:</strong> Assignment 3 – React Todo List
+    </td>
+  </tr>
+
   <tr>
     <td>3</td>
-    <td>6) Responsive, Reusable, and Controllable Styling</td>
-    <td>**Assigned**: EC Assignment 4. Tailwind</td>
-  </tr>
-  <tr>
+    <td>4) React State & Context</td>
     <td></td>
-    <td>7) Forms and Validation</td>
-    <td>**Assigned**: Project 1 & **Assigned**: Assignment 5. Forms</td>
   </tr>
+
   <tr>
     <td>4</td>
-    <td>8) Relational Data Modeling</td>
-    <td>**Due**: EC Assignment 4. Tailwind</td>
+    <td>5) Forms (React Hook Form & Zod)</td>
+    <td>
+      <strong>Assigned:</strong> Assignment 4 – Forms<br/>
+      <strong>Assigned:</strong> Project 1
+    </td>
   </tr>
+
   <tr>
-    <td></td>
-    <td>9) Database CRUD operations</td>
-    <td>**Due**: Assignment 5. Forms</td>
-  </tr>
-   <tr>
     <td>5</td>
-    <td>10) Transactions, Migrations, and Advanced Queries</td>
-    <td>**Assigned**: Assignment 6. Databases</td>
+    <td>6) CSS & Tailwind Basics</td>
+    <td></td>
   </tr>
+
   <tr>
-    <td></td>
-    <td>11) tRPC on the Server</td>
-    <td></td>
-  </tr>
-   <tr>
     <td>6</td>
-    <td>12) Web Authentication, Authorization, and Security</td>
+    <td><em>Spring Break (No Lecture / No Lab)</em></td>
     <td></td>
   </tr>
-  <tr>
-    <td></td>
-    <td>13) Data Fetching with React Query</td>
-    <td>**Assigned**: Assignment 7. tRPC and React Query <br/> **Due**: Assignment 6. Databases</td>
-  </tr>
+
   <tr>
     <td>7</td>
-    <td>14) Client Side Routing with NextJS</td>
-    <td>**Assigned**: Project 2  <br/> **Due**: Project 1 Completed Code</td>
+    <td>7) Relational Data Modeling & CRUD Operations</td>
+    <td>
+      <strong>Assigned:</strong> Assignment 5 – Databases
+    </td>
   </tr>
+
   <tr>
-    <td></td>
-    <td>15) The Client Server Model</td>
-    <td>**Assigned**: EC Assignment 8. NextJs</td>
-  </tr>
-   <tr>
     <td>8</td>
-    <td>16) HTTP Protocol and API Architecture</td>
-    <td></td>
+    <td>8) APIs</td>
+    <td>
+      <strong>Assigned:</strong> Assignment 6 – APIs<br/>
+      <strong>Assigned:</strong> Final Project
+    </td>
   </tr>
-  <tr>
-    <td></td>
-    <td>17) Webhooks</td>
-    <td>**Assigned**: Assignment 9. APIs and Webhooks <br/> **Due**: Assignment 7. tRPC and React Query</td>
-  </tr>
+
   <tr>
     <td>9</td>
-    <td>18) Cloud Infrastructure, Services, and Deployment (Part 1)</td>
-    <td>**Due**: Project 2 Design Reviews</td>
+    <td>9) Final Project Development</td>
+    <td>Final Project Development Week</td>
   </tr>
-  <tr>
-    <td></td>
-    <td>19) Cloud Infrastructure, Services, and Deployment (Part 2)</td>
-    <td>**Due**: EC Assignment 8. NextJs</td>
-  </tr>
+
   <tr>
     <td>10</td>
-    <td>20) Docker</td>
-    <td>**Due**: Assignment 9. APIs and Webhooks <br/> **Assigned**: Assignment 10. Cloud and Deployment</td>
-  </tr>
-  <tr>
+    <td>10) Final Project Presentations / Review</td>
     <td></td>
-    <td>21) Testing, Staging, and CI/CD</td>
-    <td>**Assigned**: EC Assignment 11. CI/CD and Testing</td>
   </tr>
-  <tr>
-    <td>11</td>
-    <td>22) No Lecture, Final Project Presentations</td>
-    <td>**Due**: Project 2 Presentations & Completed Code</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>23) Course Recap and What's Next?</td>
-    <td>**Due**: Assignment 10. Cloud and Deployment & EC Assignment 11. CI/CD and Testing</td>
-  </tr>  
+
 </table>
+
+<h3>Deliverables Timeline</h3>
+
+<p><em>All assignments are due at the start of the listed week.</em></p>
+
+<ul>
+  <li>Week 1: Assignment 0 - Git Due</li>
+  <li>Week 2: Assignment 1 - JavaScript Due</li>
+  <li>Week 3: Assignment 2 - TypeScript Due</li>
+  <li>Week 4: Assignment 3 – React Todo List Due</li>
+  <li>Week 5: Assignment 4 – Forms Due</li>
+  <li>Week 5: Project 1 Due</li>
+  <li>Week 8: Assignment 5 – Databases Due</li>
+  <li>Week 9: Assignment 6 – APIs Due</li>
+  <li>Week 10: Final Project Due</li>
+</ul>
 
 ## Student Support
 
@@ -378,22 +356,12 @@ A moderated course discord server will serve as the primary means of course comm
 It will also serve as a platform in which students can ask questions about course material, assignments, and projects.
 The course staff will be active on the discord server and will respond to questions in a timely manner.
 
-[//]: # (## Academic Honesty, Collaboration, and Use of Artificial Intelligence)
+## Academic Honesty and Collaboration
 
-[//]: # ()
-[//]: # (On assignments, students may and are encouraged to collaborate work with any other students in the course. )
+On assignments, students may collaborate with other students in the course. However, each student must submit their own work. Students may not directly copy another student's work.
 
-[//]: # (However, each student must submit their own work for each assignment, and students my not directly copy another student's work. )
+Students may use short snippets of code found online or from other external resources. However, they may not copy full solutions to assignments. If students use code from an external source, they are expected to include a link to the original source in their submission.
 
-[//]: # (Students may use short snippets of code they find online or using other resources, however they may not copy full solutions to assignments. )
+Use of AI tools such as ChatGPT, GitHub Copilot, or similar systems is allowed. These tools must be treated like any other external resource. AI tools may be used to generate small, isolated functional units of code, but may not be used to generate entire assignment or project solutions. If AI-generated code is used, students must clearly indicate where it was used.
 
-[//]: # (If students use code from an external source, they are expected to include a link to the original source of the code.)
-
-[//]: # ()
-[//]: # (Projects may be completed in a group of two students. These two students are only required to submit a single code submission for the project. Students my collaborate with other students outside of their group on projects.)
-
-[//]: # ()
-[//]: # (Use of ChatGPT, GitHub Copilot, or any other AI tool is allowed, but these tools must be treated in the same way as any other external resource. AI tools may only be used for generating small, isolated functional units of code, and not for generating entire solutions to assignments. Similarly, students should indicate when they are using code that was generated by an AI tool.)
-
-[//]: # ()
-[//]: # (**If a student is found to be violating these policies on any assignment or project, course staff reserves the right to deduct points from the student submission, including awarding a zero on the assignment, depending on the severity of the offense.**)
+If a student is found to be violating these policies on any assignment or project, course staff reserves the right to deduct points from the submission, including awarding a zero depending on the severity of the violation.
