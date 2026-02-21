@@ -7,6 +7,7 @@ sidebar_position: 1
 ## Assignment Links
 
 - [Lecture 1 Playlist](https://www.youtube.com/playlist?list=PLKG9s9gYKALBhzRbV6ANuxF44H7-_0qx9)
+  - [Lecture Code](https://github.com/CS61D/Lecture-JavaScript)
 - [Github Classroom Assignment](https://classroom.github.com/a/kEfbRQ1A)
 
 
