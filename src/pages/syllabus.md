@@ -10,8 +10,8 @@ This page covers specific course policies and procedures. If you are auditing th
 
 - **Course Name**: 61D: Applied Software Development
 - **Office Hours**: TBD
-- **Course Instructors**: Vikram Nandi, Karthik Subramanian
-- **Lab Time & Location**: Dwinelle 187
+- **Course Instructor**: Benjamin Smothers
+- **Lab Time & Location**: TBD
 - **Prerequisites**: No prereqs needed :D
 
 There are **no** required course materials besides a laptop. All software taught and used in this course will be open source.
